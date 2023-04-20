@@ -26,25 +26,16 @@ function Home() {
   );
   const [dropdown, setDropdown] = useState(false);
   const [isOpen, setIsOpen] = useState(null);
-
-  console.log("isOpen", isOpen);
-
   function handleOpenModal(foodMenuItem) {
-    console.log("foodMenuItem", foodMenuItem);
     setIsOpen(foodMenuItem);
   }
-
   function handleCloseModal() {
     setIsOpen(null);
   }
-
   const onNavbarButtonClick = (title) => {
     setSelectedNavbar(title);
   };
-
   const { changeServiceType, orderType } = useAppContext();
-
-  console.log("orderType", orderType);
 
   return (
     <Router>

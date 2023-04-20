@@ -1,5 +1,4 @@
-import { useEffect, useState } from "react";
-import FullScreenModal from "../../components/Modal/FullScreenModal";
+import { useState } from "react";
 import { useAppContext } from "../../hooks/useAppContext";
 import "./searchPage.css";
 import NormalSingleCard from "../../components/NormalSingleCard/NormalSingleCard";
@@ -14,7 +13,6 @@ const SearchPage = () => {
   const [searchText, setSearchText] = useState("");
 
   function handleOpenModal(foodMenuItem) {
-    console.log("foodMenuItem", foodMenuItem);
     setIsOpen(foodMenuItem);
   }
 

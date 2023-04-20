@@ -1,5 +1,4 @@
 const FooterButton = ({ foodItem, buttonText, totalItems, onClick }) => {
-  console.log("buttonText", buttonText);
   return (
     <button className="addItem" onClick={onClick}>
       <span>

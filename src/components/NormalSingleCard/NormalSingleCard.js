@@ -1,4 +1,4 @@
-import { useCallback, useState } from "react";
+import { useCallback } from "react";
 import AddItemCounter from "../AddItemCounter/AddItemCounter";
 import "./normalSingleCard.css";
 import { useAppContext } from "../../hooks/useAppContext";

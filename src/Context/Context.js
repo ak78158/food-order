@@ -51,7 +51,6 @@ export const ProductContextProvider = ({ children }) => {
     if (!productExist) {
       setCart((prevState) => [...prevState, { ...product, count: 1 }]);
     } else {
-      console.log("productExist", productExist);
       setCart((prevState) => {
         const copy = [...prevState];
         const objIndex = copy.findIndex((obj) => obj.id === productExist.id);

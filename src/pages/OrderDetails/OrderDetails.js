@@ -47,8 +47,6 @@ const OrderDetails = () => {
     </div>
   );
 
-  console.log("cart", cart);
-
   return (
     <div className="modalContainer bgWhite pageContainer">
       <div>

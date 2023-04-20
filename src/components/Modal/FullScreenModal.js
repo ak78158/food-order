@@ -1,10 +1,7 @@
-import React, { useState } from "react";
+import React from "react";
 import { BackIcon } from "../../assets/SVGComponents/backIcon";
-import { useNavigate } from "react-router-dom";
 import "./fullScreenModal.css";
 function FullScreenModal({ customModalStyles, isOpen, onClose, children }) {
-  const navigate = useNavigate();
-
   return (
     <div className={`customModalStyles modal ${isOpen ? "open" : ""} `}>
       <div className="modal-content">
