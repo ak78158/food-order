@@ -1,0 +1,44 @@
+.specialMenuContainer {
+  padding: 20px;
+}
+.banner {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 10px;
+  padding: 4px;
+  background: #f1f1f1;
+  box-shadow: -5px 5px 10px rgba(217, 217, 217, 0.2),
+    5px -5px 10px rgba(217, 217, 217, 0.2),
+    -5px -5px 10px rgba(255, 255, 255, 0.9),
+    5px 5px 13px rgba(217, 217, 217, 0.9);
+  position: relative;
+}
+
+.banner img {
+  display: block;
+  width: 100%;
+  max-height: auto;
+  border-radius: 10px;
+}
+
+.banner > .caption {
+  position: absolute;
+  top: 0;
+  width: 45%;
+  height: 100%;
+  color: white;
+}
+
+.banner > .caption > h3 {
+  text-align: center;
+}
+
+.foodItems {
+  display: flex;
+  margin-top: 10px;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.specialFoodAccordion {
+  margin: 20px 0;
+}

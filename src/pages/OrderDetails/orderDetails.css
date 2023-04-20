@@ -1,0 +1,38 @@
+.orderDetailsContainer {
+  margin: 20px;
+}
+
+.orderFoodCards {
+  background: transparent;
+  box-shadow: inset -3px -3px 7px #ffffff,
+    inset 2px 2px 5px rgba(174, 174, 192, 0.4);
+  border-radius: 10px;
+}
+
+.bgWhite {
+  background: white;
+}
+
+.pageContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.orderDetailsBack {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.placeOrder {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  margin-left: 16px;
+  color: #39434e;
+}
+.orderDetailIcon {
+  width: 20px;
+  height: 20px;
+}

@@ -1,0 +1,34 @@
+.itemCounter {
+  display: flex;
+  padding: 5px;
+  box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.1), 0 6px 10px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.counterIcon {
+  font-size: 1rem;
+  border-radius: 50%;
+  box-shadow: inset -0.125rem 0.125rem 0.25rem 0 rgba(221, 221, 224, 0.2),
+    inset 0.125rem -0.125rem 0.25rem 0 rgba(221, 221, 224, 0.2),
+    inset -0.125rem -0.125rem 0.25rem 0 rgba(255, 255, 255, 0.9),
+    inset 0.125rem 0.125rem 0.3125rem 0 rgba(220, 220, 220, 0.9);
+  color: #3cbcb4;
+  background-color: #f1f1f1;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  position: relative;
+}
+
+.plusIcon {
+  margin-left: 5px;
+}
+
+.minusIcon {
+  margin-right: 5px;
+}

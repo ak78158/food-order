@@ -1,0 +1,8 @@
+.navbarButton {
+  font-weight: 600;
+}
+
+.selected {
+  color: aqua;
+  border-bottom: 1px solid aqua;
+}

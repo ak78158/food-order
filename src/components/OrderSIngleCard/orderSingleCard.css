@@ -1,0 +1,10 @@
+.nameWithPrice {
+  display: flex;
+  gap: 5px;
+  flex-direction: column;
+  margin-left: 5px;
+}
+
+.NormalMenu {
+  margin: 10px;
+}

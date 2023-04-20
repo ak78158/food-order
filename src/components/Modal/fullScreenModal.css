@@ -1,0 +1,20 @@
+.backModalIcon {
+  cursor: pointer;
+  position: absolute;
+  color: white;
+  z-index: 1;
+  left: 8px;
+  top: 16px;
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  background: #657280;
+  box-shadow: -4px 4px 8px rgba(91, 103, 115, 0.2),
+    4px -4px 8px rgba(91, 103, 115, 0.2), -4px -4px 8px rgba(111, 125, 141, 0.9),
+    4px 4px 10px rgba(91, 103, 115, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.2s linear;
+  margin-right: 8px;
+}

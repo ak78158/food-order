@@ -1,0 +1,7 @@
+.normalMenuContainer {
+  padding: 0 20px;
+}
+.NormalFoodCards {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,25 @@
+.NormalMenu {
+  display: flex;
+  margin-bottom: 15px;
+}
+.priceWithCounter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 8px;
+}
+
+.normalFoodIcon {
+  width: 71px;
+  height: 71px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-right: 0.5rem;
+}
+
+.foodNameWithPrice {
+  width: 100%;
+}
+.foodPriceBar {
+  margin-top: 10px;
+}

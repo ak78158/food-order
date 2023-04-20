@@ -1,0 +1,21 @@
+.variantPrice {
+  margin-left: auto;
+}
+
+.radio {
+  display: flex;
+  align-items: center;
+}
+label.radio .icon {
+  width: 24px;
+  height: 24px;
+  background: #4a5662;
+  box-shadow: inset -2px 2px 4px rgba(59, 69, 78, 0.2),
+    inset 2px -2px 4px rgba(59, 69, 78, 0.2),
+    inset -2px -2px 4px rgba(89, 103, 118, 0.9),
+    inset 2px 2px 5px rgba(59, 69, 78, 0.9);
+  border-radius: 24px;
+  display: inline-block;
+  margin-right: 8px;
+  position: relative;
+}

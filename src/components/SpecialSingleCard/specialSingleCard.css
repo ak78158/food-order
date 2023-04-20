@@ -1,0 +1,79 @@
+.specialCard {
+  border-radius: 8px;
+  box-shadow: inset -2px 2px 4px rgba(205, 205, 205, 0.2),
+    inset 2px -2px 4px rgba(205, 205, 205, 0.2),
+    inset -2px -2px 4px rgba(255, 255, 255, 0.9),
+    inset 2px 2px 5px rgba(205, 205, 205, 0.9);
+}
+
+.foodImage {
+  width: 155px;
+  height: 105px;
+  object-fit: cover;
+}
+
+.vegIcon {
+  height: 15px;
+  width: 15px;
+}
+
+.priceWithItemCounter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.foodItemFooterBar {
+  margin: 8px;
+}
+
+.foodPriceBar {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.veg {
+  width: 1rem;
+  min-width: 1rem;
+  height: 1rem;
+  border-radius: 0.3125rem;
+  border: 0.125rem solid #5bac81;
+  margin-right: 0.5rem;
+  display: inline-block;
+  position: relative;
+}
+.veg:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  width: 67%;
+  height: 67%;
+  background: #5bac81;
+  border-radius: 50%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.nonveg {
+  width: 1rem;
+  min-width: 1rem;
+  height: 1rem;
+  border-radius: 0.3125rem;
+  border: 0.125rem solid #ef4b4b;
+  margin-right: 0.5rem;
+  display: inline-block;
+  position: relative;
+}
+.nonveg:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  width: 67%;
+  height: 67%;
+  background: #ef4b4b;
+  border-radius: 50%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
