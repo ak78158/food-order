@@ -4,7 +4,7 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
     id: 300,
     items: [
       {
-        name: "coke",
+        name: "papaya",
         id: 30001,
         qty: 20,
         category: 0,
@@ -14,15 +14,14 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?papaya",
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
         veg: true,
         foodType: "VEGAN",
       },
       {
-        name: "pepsi",
+        name: "Pepsi",
         qty: 20,
         id: 30002,
         category: 0,
@@ -32,14 +31,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/1532633202630259791/2022-03-10/Compressed_Compressed_WTFF--2.JPG",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: true,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "water",
+        name: "Water",
         qty: 20,
         id: 30003,
         category: 0,
@@ -49,14 +47,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "hamburger",
+        name: "Hamburger",
         qty: 40,
         category: 1,
         id: 30004,
@@ -66,14 +63,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "fries",
+        name: "Fries",
         qty: 20,
         id: 30005,
         category: 1,
@@ -83,14 +79,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: true,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "pizza",
+        name: "Pizza",
         qty: 20,
         id: 30006,
         category: 1,
@@ -100,8 +95,7 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         foodType: "VEGAN",
         description:
@@ -124,15 +118,14 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
         veg: true,
         foodType: "VEGAN",
       },
       {
-        name: "pepsi",
+        name: "Pepsi",
         qty: 20,
         id: 31002,
         category: 0,
@@ -142,14 +135,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/1532633202630259791/2022-03-10/Compressed_Compressed_WTFF--2.JPG",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: true,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "water",
+        name: "Water",
         qty: 20,
         id: 31003,
         category: 0,
@@ -159,14 +151,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "hamburger",
+        name: "Hamburger",
         qty: 40,
         category: 1,
         id: 31004,
@@ -176,14 +167,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "fries",
+        name: "Fries",
         qty: 20,
         id: 31005,
         category: 1,
@@ -193,14 +183,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: true,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "pizza",
+        name: "Pizza",
         qty: 20,
         id: 31006,
         category: 1,
@@ -210,8 +199,7 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?Pizza",
         veg: false,
         foodType: "VEGAN",
         description:
@@ -234,15 +222,14 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?coke",
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
         veg: true,
         foodType: "VEGAN",
       },
       {
-        name: "pepsi",
+        name: "Pepsi",
         qty: 20,
         id: 32002,
         category: 0,
@@ -252,14 +239,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/1532633202630259791/2022-03-10/Compressed_Compressed_WTFF--2.JPG",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: true,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "water",
+        name: "Water",
         qty: 20,
         id: 32003,
         category: 0,
@@ -269,14 +255,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "hamburger",
+        name: "Hamburger",
         qty: 40,
         category: 1,
         id: 32004,
@@ -286,14 +271,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "fries",
+        name: "Fries",
         qty: 20,
         id: 32005,
         category: 1,
@@ -303,14 +287,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: true,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "pizza",
+        name: "Pizza",
         qty: 20,
         id: 32006,
         category: 1,
@@ -320,8 +303,7 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         foodType: "VEGAN",
         description:
@@ -334,7 +316,7 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
     id: 303,
     items: [
       {
-        name: "coke",
+        name: "Coke",
         id: 33001,
         qty: 20,
         category: 0,
@@ -344,15 +326,14 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
         veg: true,
         foodType: "VEGAN",
       },
       {
-        name: "pepsi",
+        name: "Pepsi",
         qty: 20,
         id: 33002,
         category: 0,
@@ -362,14 +343,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/1532633202630259791/2022-03-10/Compressed_Compressed_WTFF--2.JPG",
+        imageURL: "https://source.unsplash.com/random/700x480/?Pepsi",
         veg: true,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "water",
+        name: "Water",
         qty: 20,
         id: 33003,
         category: 0,
@@ -379,14 +359,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "hamburger",
+        name: "Hamburger",
         qty: 40,
         category: 1,
         id: 33004,
@@ -396,14 +375,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "fries",
+        name: "Fries",
         qty: 20,
         id: 33005,
         category: 1,
@@ -413,14 +391,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: true,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "pizza",
+        name: "Pizza",
         qty: 20,
         id: 33006,
         category: 1,
@@ -430,8 +407,7 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         foodType: "VEGAN",
         description:
@@ -444,7 +420,7 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
     id: 304,
     items: [
       {
-        name: "coke",
+        name: "Cooke",
         id: 34001,
         qty: 20,
         category: 0,
@@ -454,15 +430,14 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
         veg: true,
         foodType: "VEGAN",
       },
       {
-        name: "pepsi",
+        name: "Pepsi",
         qty: 20,
         id: 34002,
         category: 0,
@@ -472,14 +447,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/1532633202630259791/2022-03-10/Compressed_Compressed_WTFF--2.JPG",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: true,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "water",
+        name: "Ice Water",
         qty: 20,
         id: 34003,
         category: 0,
@@ -489,14 +463,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "hamburger",
+        name: "Hamburger",
         qty: 40,
         category: 1,
         id: 34004,
@@ -506,14 +479,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "fries",
+        name: "Fries",
         qty: 20,
         id: 34005,
         category: 1,
@@ -523,14 +495,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: true,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "pizza",
+        name: "Pizza",
         qty: 20,
         id: 34006,
         category: 1,
@@ -540,8 +511,7 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         foodType: "VEGAN",
         description:
@@ -554,7 +524,7 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
     id: 305,
     items: [
       {
-        name: "coke",
+        name: "Coke",
         id: 35001,
         qty: 20,
         category: 0,
@@ -564,15 +534,14 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?coke",
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
         veg: true,
         foodType: "VEGAN",
       },
       {
-        name: "pepsi",
+        name: "MilkShake",
         qty: 20,
         id: 35002,
         category: 0,
@@ -582,14 +551,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://s3-ap-south-1.amazonaws.com/toast-prod-data/restruant/1532633202630259791/2022-03-10/Compressed_Compressed_WTFF--2.JPG",
+        imageURL: "https://source.unsplash.com/random/700x480/?MilkShake",
         veg: true,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "water",
+        name: "Banana",
         qty: 20,
         id: 35003,
         category: 0,
@@ -599,14 +567,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "hamburger",
+        name: "Hamburger",
         qty: 40,
         category: 1,
         id: 35004,
@@ -616,14 +583,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "fries",
+        name: "Fries",
         qty: 20,
         id: 35005,
         category: 1,
@@ -633,14 +599,13 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: true,
         description:
           "Roasted beetroot hummus, seeded sourdough crostini, and crudité.Our small plates highlight seasonal ingredients and are the perfect start or side to a meal. We play with different flavors to keep things fresh, so dishes may include variations..",
       },
       {
-        name: "pizza",
+        name: "Pizza",
         qty: 20,
         id: 35006,
         category: 1,
@@ -650,8 +615,7 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
           { name: "Small", price: 0 },
           { name: "Large", price: 100 },
         ],
-        imageURL:
-          "https://cdn.pixabay.com/photo/2014/10/19/20/59/hamburger-494706__480.jpg",
+        imageURL: "https://source.unsplash.com/random/700x480/?",
         veg: false,
         foodType: "VEGAN",
         description:
@@ -660,20 +624,3 @@ export const BEVERAGES_FOOD_DELIVERY_MENU = [
     ],
   },
 ];
-
-/*  
-    // data set for pickup/delivery 
-
-    // App Context (central state)
-    states -> type of service -> pickup/delivery;
-    
-
-    // based on type of service, change the tab products;
-    specials -> array of products
-    beverages -> array of products
-    food -> array of products
-    desert -> array of products
-    store -> array of products
-
-    func search() -> aggregate and find products
-*/
